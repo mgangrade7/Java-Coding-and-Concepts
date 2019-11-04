@@ -11,6 +11,7 @@ public class solution3 {
     // Time Complexity O(n/2)
     // Space Complexity O(1)
     public static boolean isPalindrome1(String str){
+        if(str.length() == 0 || str.length() == 1) return true;
         int start = 0;
         int end = str.length() - 1;        
         while(start < end){
@@ -23,6 +24,7 @@ public class solution3 {
     
     // Using provided methods
     public static boolean isPalindrome2(String str){
+        if(str.length() == 0 || str.length() == 1) return true;
         StringBuilder sb = new StringBuilder();
         sb.append(str);
         sb.reverse();
@@ -31,8 +33,8 @@ public class solution3 {
     
     // To demonstrate array
     public static boolean isPalindrome3(String str){
-        char[] charArray = str.toCharArray();
-        
+        if(str.length() == 0 || str.length() == 1) return true;
+        char[] charArray = str.toCharArray();        
         for (int i = 0, j = charArray.length - 1; i < charArray.length/2; i++, j--) {
             if(charArray[i] != charArray[j]) return false;
         }
