@@ -39,7 +39,7 @@ public class solution5 {
         }
         return arr;
     }
-    
+
     // Time Complexity O(n)
     // Space Complexity O(1)
     public static int[] moveZero3(int[] arr) {
@@ -56,8 +56,8 @@ public class solution5 {
     }
 
     public static void main(String[] args) {
-//        int[] a = {0,1,2,3,0,0,12,45,2};
-        int[] a = {0, 0, 0, 1, 5, 0, 30, 20, 0, 0, 0, 0, 1, 4, 7};
+        int[] a = {0, 1, 2, 3, 0, 0, 12, 45, 2};
+//        int[] a = {0, 0, 0, 1, 5, 0, 30, 20, 0, 0, 0, 0, 1, 4, 7};
 
         int[] b = moveZero2(a);
 
