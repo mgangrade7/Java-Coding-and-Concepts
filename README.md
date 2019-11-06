@@ -10,4 +10,6 @@ Java Coding Practice
 
 [4. Two Sum](/coding/src/main/java/com/solution/coding/solution4.java)
 
-[5. Move All Zero to End of the array while maintaing array order](/coding/src/main/java/com/solution/coding/solution5.java)
+[5. Move All Zero to End of the array while maintain array order](/coding/src/main/java/com/solution/coding/solution5.java)
+
+[6. Print next big integer in a int array for each element](/coding/src/main/java/com/solution/coding/solution6.java)
