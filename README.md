@@ -19,3 +19,5 @@ Java Coding Practice
 [8. Fibonacci Series](/coding/src/main/java/com/solution/coding/solution8.java)
 
 [9. Factorial of a Number](/coding/src/main/java/com/solution/coding/solution9.java)
+
+[9. N Step](/coding/src/main/java/com/solution/coding2/solution10.java)
