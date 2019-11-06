@@ -17,3 +17,5 @@ Java Coding Practice
 [7. Anagram String/Array](/coding/src/main/java/com/solution/coding/solution7.java)
 
 [8. Fibonacci Series](/coding/src/main/java/com/solution/coding/solution8.java)
+
+[9. Factorial of a Number](/coding/src/main/java/com/solution/coding/solution9.java)
