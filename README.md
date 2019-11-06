@@ -15,3 +15,5 @@ Java Coding Practice
 [6. Print next big integer in a int array for each element](/coding/src/main/java/com/solution/coding/solution6.java)
 
 [7. Anagram String/Array](/coding/src/main/java/com/solution/coding/solution7.java)
+
+[8. Fibonacci Series](/coding/src/main/java/com/solution/coding/solution8.java)
