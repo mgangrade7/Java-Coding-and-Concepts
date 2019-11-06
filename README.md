@@ -13,3 +13,5 @@ Java Coding Practice
 [5. Move All Zero to End of the array while maintain array order](/coding/src/main/java/com/solution/coding/solution5.java)
 
 [6. Print next big integer in a int array for each element](/coding/src/main/java/com/solution/coding/solution6.java)
+
+[7. Anagram String/Array](/coding/src/main/java/com/solution/coding/solution7.java)
