@@ -9,3 +9,5 @@ Java Coding Practice
 [3. Check for Palindrome String/Array](/coding/src/main/java/com/solution/coding/solution3.java)
 
 [4. Two Sum](/coding/src/main/java/com/solution/coding/solution4.java)
+
+[5. Move All Zero to End of the array while maintaing array order](/coding/src/main/java/com/solution/coding/solution5.java)
