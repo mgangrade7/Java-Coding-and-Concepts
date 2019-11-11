@@ -39,7 +39,8 @@ public class solution12 {
     public static void main(String[] args) {
 
         List<String> phrases = new ArrayList<>();
-
+        
+//        Test case1
         phrases.add("mission statement");
         phrases.add("a quick bite to eat");
         phrases.add("a chip off the old block");
@@ -49,6 +50,10 @@ public class solution12 {
         phrases.add("block party");
         phrases.add("eat my words");
         phrases.add("bar of soap");
+
+//         Test case 2
+//        phrases.add("a b a");
+//        phrases.add("a c");
 
         Map<String, String> map = new HashMap<>();
         List<String> op = new ArrayList<>();
@@ -64,7 +69,9 @@ public class solution12 {
 
         for (String s : phrases) {
             String[] p = s.split(" ");
+            int idx = p.length - 1;
             String key = p[0];
+            if(key.equals(p[idx])) continue;
             if (map.containsKey(key)) {
                 String val = map.get(key);
                 String[] word = val.split(" ");
