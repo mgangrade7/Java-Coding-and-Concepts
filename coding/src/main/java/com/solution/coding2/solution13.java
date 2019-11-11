@@ -1,5 +1,5 @@
 /*
- * Last and Second last letter of a string seperated with a space
+ * Last and Second last letter of a string seperated with a space in reverse order
  * input = "apple', output = "e l"
  */
 package com.solution.coding2;
