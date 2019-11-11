@@ -23,3 +23,5 @@ Java Coding Practice
 [10. Count different ways to reach N Steps](/coding/src/main/java/com/solution/coding2/solution10.java)
 
 [11. Assign new userId](/coding/src/main/java/com/solution/coding2/solution11.java)
+
+[13. Last and Second Last](/coding/src/main/java/com/solution/coding2/solution13.java)
