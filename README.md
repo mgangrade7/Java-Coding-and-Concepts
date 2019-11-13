@@ -27,3 +27,9 @@ Java Coding Practice
 [12. Connecting Phrases](/coding/src/main/java/com/solution/coding2/solution11.java)
 
 [13. Last and Second Last](/coding/src/main/java/com/solution/coding2/solution13.java)
+
+
+
+
+Concepts Explained
+[1 Abstract class in java](https://www.journaldev.com/1582/abstract-class-in-java)
