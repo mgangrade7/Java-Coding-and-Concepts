@@ -1,7 +1,7 @@
 # Java-Coding-and-Concepts
 
 
-###Java Coding Practice
+### Java Coding Practice
 
 
 [1. Reverse A String](/coding/src/main/java/com/solution/coding/solution1.java)
@@ -33,6 +33,6 @@
 
 
 
-###Concepts Explained
+### Concepts Explained
 
 [1. Abstract class in Java](https://www.journaldev.com/1582/abstract-class-in-java)
