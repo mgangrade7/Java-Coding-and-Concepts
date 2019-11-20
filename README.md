@@ -32,6 +32,8 @@
 
 [14. Find whether an array is a subset of another array](/coding/src/main/java/com/solution/coding2/solution14.java)
 
+[15. Merge two sorted array](/coding/src/main/java/com/solution/coding2/solution15.java)
+
 
 
 
