@@ -34,6 +34,8 @@
 
 [15. Merge two sorted array](/coding/src/main/java/com/solution/coding2/solution15.java)
 
+[16. Find Maximum and Minimum in a array ](/coding/src/main/java/com/solution/coding2/solution16.java)
+
 
 
 
