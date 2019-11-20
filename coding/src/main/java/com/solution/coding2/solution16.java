@@ -22,7 +22,7 @@ public class solution16 {
         }
         System.out.println("Max : " + max + " Min : " + min);
     }
-    
+
 //    Time Complexity is O(n) and Space Complexity is O(1).
 //    Total number of comparisons:-
 //    If n is odd, 3 * (n-1) / 2
@@ -43,14 +43,14 @@ public class solution16 {
             max = a[0];
             min = a[0];
         }
-        int j = a.length%2 == 0 ? 2 : 1;
+        int j = a.length % 2 == 0 ? 2 : 1;
         for (int i = j; i < a.length - 1; i = i + 2) {
             int local_max = 0;
             int local_min = 0;
             if (a[i] > a[i + 1]) {
                 local_max = a[i];
                 local_min = a[i + 1];
-            }else{
+            } else {
                 local_max = a[i + 1];
                 local_min = a[i];
             }
@@ -67,7 +67,7 @@ public class solution16 {
     }
 
     public static void main(String[] args) {
-        int[] arr = {2,1,3,5,8};
+        int[] arr = {2, 1, 3, 5, 8};
         maxMin(arr);
         maxMin1(arr);
     }
