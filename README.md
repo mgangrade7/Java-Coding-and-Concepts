@@ -28,7 +28,10 @@
 
 [12. Connecting Phrases](/coding/src/main/java/com/solution/coding2/solution11.java)
 
-[13. Last and Second Last](/coding/src/main/java/com/solution/coding2/solution13.java)
+[13. Last and Second last letter of a string separated with a space in reverse order](/coding/src/main/java/com/solution/coding2/solution13.java)
+
+[14. Find whether an array is a subset of another array](/coding/src/main/java/com/solution/coding2/solution14.java)
+
 
 
 
