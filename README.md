@@ -36,6 +36,8 @@
 
 [16. Find Maximum and Minimum in a array ](/coding/src/main/java/com/solution/coding2/solution16.java)
 
+[17. Given an unsorted array of integers, find the length of the longest consecutive sequence. ](/coding/src/main/java/com/solution/coding2/solution17.java)
+
 
 
 
