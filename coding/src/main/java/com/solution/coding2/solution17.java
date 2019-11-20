@@ -1,5 +1,5 @@
 /*
- * Given an unsorted array of integers, find the length of the longest consecutive sequence.
+    * Given an unsorted array of integers, find the length of the longest consecutive sequence.
  */
 package com.solution.coding2;
 
