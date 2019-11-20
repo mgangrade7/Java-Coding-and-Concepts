@@ -47,10 +47,10 @@ public class solution15 {
 
         int[] a = {1, 2, 3, 3, 50};
         int[] b = {2, 3, 3, 3, 4, 5, 6, 10};
-        
+
         int[] res = merge(a, b);
-        
-        for(int i : res){
+
+        for (int i : res) {
             System.out.print(i + " ");
         }
 
