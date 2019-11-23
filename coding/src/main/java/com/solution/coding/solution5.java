@@ -44,11 +44,12 @@ public class solution5 {
     // Space Complexity O(1)
     public static int[] moveZero3(int[] arr) {
         int j = 0;
+
         for (int i = 0; i < arr.length; i++) {
             if (arr[i] != 0) {
-                // Swap operation as need to swap with 0 so no  need to store in temp variable
+                int temp = arr[j];
                 arr[j] = arr[i];
-                arr[i] = 0;
+                arr[i] = temp;
                 j++;
             }
         }
@@ -56,10 +57,10 @@ public class solution5 {
     }
 
     public static void main(String[] args) {
-        int[] a = {0, 1, 2, 3, 0, 0, 12, 45, 2};
-//        int[] a = {0, 0, 0, 1, 5, 0, 30, 20, 0, 0, 0, 0, 1, 4, 7};
+//        int[] a = {1,0,2,0,3,3,4,0};
+        int[] a = {0, 0, 0, 1, 5, 0, 30, 20, 0, 0, 0, 0, 1, 4, 7};
 
-        int[] b = moveZero2(a);
+        int[] b = moveZero3(a);
 
         for (int i : b) {
             System.out.println(i);
