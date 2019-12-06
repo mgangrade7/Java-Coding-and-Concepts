@@ -12,6 +12,8 @@ public class solution17 {
     public static int longConSeq(int[] a) {
         Arrays.sort(a);
         Set<Integer> set = new HashSet<>();
+        
+        
         int max = 0;
         for (int i = 1; i < a.length; i++) {
             int prev = a[i - 1];

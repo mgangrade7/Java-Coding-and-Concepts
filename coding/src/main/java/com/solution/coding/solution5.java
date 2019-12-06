@@ -58,7 +58,7 @@ public class solution5 {
 
     public static void main(String[] args) {
 //        int[] a = {1,0,2,0,3,3,4,0};
-        int[] a = {0, 0, 0, 1, 5, 0, 30, 20, 0, 0, 0, 0, 1, 4, 7};
+        int[] a = {1,1,1,0, 0, 0, 1, 5, 0, 30, 20, 0, 0, 0, 0, 1, 4, 7};
 
         int[] b = moveZero3(a);
 
