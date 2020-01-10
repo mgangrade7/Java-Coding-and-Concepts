@@ -42,6 +42,8 @@
 
 [19. Find Second Largest Element in a Array ](/coding/src/main/java/com/solution/coding2/solution19.java)
 
+[20. Largest Sum Contiguous Subarray / Maximum Sum SubArray / Kadane's Algorithm ](/coding/src/main/java/com/solution/coding3/solution20.java)
+
 
 
 
