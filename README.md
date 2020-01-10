@@ -38,6 +38,10 @@
 
 [17. Given an unsorted array of integers, find the length of the longest consecutive sequence. ](/coding/src/main/java/com/solution/coding2/solution17.java)
 
+[18. Valid Parentheses Problem ](/coding/src/main/java/com/solution/coding2/solution18.java)
+
+[19. Find Second Largest Element in a Array ](/coding/src/main/java/com/solution/coding2/solution19.java)
+
 
 
 
