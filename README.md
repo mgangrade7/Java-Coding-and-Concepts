@@ -46,6 +46,8 @@
 
 [21. Decode Ways / LC 91 ](/coding/src/main/java/com/solution/coding3/solution21.java)
 
+[22. Number of Islands / LC 200 ](/coding/src/main/java/com/solution/coding3/solution22.java)
+
 
 
 
