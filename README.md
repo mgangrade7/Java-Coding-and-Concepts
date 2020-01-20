@@ -48,6 +48,8 @@
 
 [22. Number of Islands / LC 200 ](/coding/src/main/java/com/solution/coding3/solution22.java)
 
+[23. Zombie in Matrix || Minimum Hour to send file to all servers ](/coding/src/main/java/com/solution/coding3/solution23.java)
+
 
 
 
